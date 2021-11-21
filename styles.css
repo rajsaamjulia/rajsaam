@@ -1,0 +1,28 @@
+h2, table {
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+table {
+  margin: 50px;
+}
+
+td, th {
+  padding: 10px;
+  text-align: left;
+}
+
+tr {
+  border-bottom-width: 1px #000;
+}
+
+th {
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+}
+
+.code {
+  font-family: monospace;
+  background-color: #e2e2e2;
+  font-size: 18px;
+}
